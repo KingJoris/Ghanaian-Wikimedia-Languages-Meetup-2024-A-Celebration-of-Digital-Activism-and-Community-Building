@@ -7,16 +7,13 @@ The **Ghanaian Wikimedia Languages Meetup 2024** was a remarkable event that bro
 ## Day 1: Rising Voices Workshop
 ![IMAGE](https://upload.wikimedia.org/wikipedia/commons/7/77/Ghanaian_language_wikimedia_community_meetup_2024_edition_17.jpg)
 
-The event kicked off on **Saturday, July 27th**, with the **Rising Voices Workshop**. The day began with **registration at 8:30 am**, followed by **opening remarks from Sadik and Eddie**. The workshop featured three sessions led by **Sadik**, focusing on **digital activism** and the importance of **preserving indigenous languages online**. Participants enjoyed a **breakfast break at 11:30 am** and a **lunch break at 2:00 pm**, providing ample time for networking and sharing ideas.
+The event kicked off on **Saturday, July 27th**, with the **Rising Voices Workshop**. The day began with **registration at 8:30 a.m**, followed by **opening remarks from Sadik and Eddie**. The workshop featured three sessions led by **Sadik**, focusing on **digital activism** and the importance of **preserving indigenous languages online**. Participants enjoyed a **breakfast break at 11:30 am** and a **lunch break at 2:00 pm**, providing ample time for networking and sharing ideas.
 
 ## Day 2: Community Presentations and Workshops
-  Twi Wikimedia Community Presentation     Ga Wikimedia Community Presentation
-:-------------------------:|:------------------------:
-![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Ghanaian_language_wikimedia_community_meetup_2024_edition_15.jpg)  |  ![](https://upload.wikimedia.org/wikipedia/commons/3/3d/Ghanaian_language_wikimedia_community_meetup_2024_edition_11.jpg)
-
 <p float="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Ghanaian_language_wikimedia_community_meetup_2024_edition_15.jpg" width="100" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ghanaian_language_wikimedia_community_meetup_2024_edition_11.jpg" width="100" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Ghanaian_language_wikimedia_community_meetup_2024_edition_15.jpg" width="500" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ghanaian_language_wikimedia_community_meetup_2024_edition_11.jpg" width="500" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Ghanaian_language_wikimedia_community_meetup_2024_edition_16.jpg" width="500" /> 
 </p>
 
 Day two, also on **July 27th**, started with an **introduction by the facilitator** and participants at **9:00 am**. **Shahadu Sadik** led an engaging **icebreaker session**, followed by **opening remarks from Maxwell Beganim**. The day was packed with presentations from various Wikimedia communities, including the **Gurene, Moore, GPE, Fante, Twi, and Dagaare communities**. Each presentation highlighted the unique challenges and successes of promoting their respective languages on Wikimedia platforms.
@@ -24,13 +21,14 @@ Day two, also on **July 27th**, started with an **introduction by the facilitato
 A notable highlight was the workshop on **“Introduction to Open Refine”** by **Mr. Fuseini Mohammed Kamaldeen**, which provided participants with valuable skills for **data cleaning and management**. The day concluded with a **brainstorming session** on **community support for team members**, fostering a spirit of collaboration and mutual aid.
 
 ## Day 3: Recap, Future Planning, and Field Trips
-  SCCA                        RedClay Studios
-:-------------------------:|:------------------------:
-![](https://upload.wikimedia.org/wikipedia/commons/b/bf/Ghanaian_language_wikimedia_community_meetup_2024_edition_03.jpg)  |  ![](https://upload.wikimedia.org/wikipedia/commons/6/67/Ghanaian_language_wikimedia_community_meetup_2024_edition_02.jpg)
-
-
+<p float="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Ghanaian_language_wikimedia_community_meetup_2024_edition_03.jpg" width="500" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Ghanaian_language_wikimedia_community_meetup_2024_edition_02.jpg" width="500" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Ghanaian_language_wikimedia_community_meetup_2024_edition_10.jpg" width="500" /> 
+</p>
+<br>
 The final day, **July 28th**, began with a **recap of the previous day’s activities**. The morning featured presentations from the **Ewe, Kusaal, Ga, Dagbani, and Nzema Wikimedia communities**, each sharing their experiences and strategies for **digital language preservation**. A **snack break at 12:10 pm** provided a brief respite before the afternoon sessions.
-![IMAGE](https://upload.wikimedia.org/wikipedia/commons/2/2a/Ghanaian_language_wikimedia_community_meetup_2024_edition_10.jpg)
+
 **Joris Darlington’s presentation on “Wiki Loves Living Heritage and Wikisource”** was a standout, showcasing the intersection of **cultural heritage** and **digital platforms**. **Shahadu Sadik’s introduction to Curationist** offered insights into curating digital content for broader audiences.
 
 In the afternoon, participants embarked on **field trips** to the **Red Clay Studio** and the **Savannah Centre for Contemporary Art (SCCA)** in Tamale. These visits were an opportunity to **document Ghanaian heritage** and explore the rich cultural landscape of the region. The field trips provided a hands-on experience in **capturing and preserving local heritage**, aligning perfectly with the event’s theme of **digital activism** and **language preservation**.
