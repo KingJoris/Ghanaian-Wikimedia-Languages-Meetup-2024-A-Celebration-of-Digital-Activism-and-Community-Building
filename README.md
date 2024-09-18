@@ -11,10 +11,10 @@ The event kicked off on **Saturday, July 27th**, with the **Rising Voices Worksh
 
 ## Day 2: Community Presentations and Workshops
 <p float="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Ghanaian_language_wikimedia_community_meetup_2024_edition_15.jpg" width="300" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ghanaian_language_wikimedia_community_meetup_2024_edition_11.jpg" width="300" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Ghanaian_language_wikimedia_community_meetup_2024_edition_16.jpg" width="300" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Ghanaian_language_wikimedia_community_meetup_2024_edition_13.jpg" width="300" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Ghanaian_language_wikimedia_community_meetup_2024_edition_15.jpg" width="200" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ghanaian_language_wikimedia_community_meetup_2024_edition_11.jpg" width="200" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Ghanaian_language_wikimedia_community_meetup_2024_edition_16.jpg" width="200" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Ghanaian_language_wikimedia_community_meetup_2024_edition_13.jpg" width="200" /> 
 </p>
 
 Day two, also on **July 27th**, started with an **introduction by the facilitator** and participants at **9:00 am**. **Shahadu Sadik** led an engaging **icebreaker session**, followed by **opening remarks from Maxwell Beganim**. The day was packed with presentations from various Wikimedia communities, including the **Gurene, Moore, GPE, Fante, Twi, and Dagaare communities**. Each presentation highlighted the unique challenges and successes of promoting their respective languages on Wikimedia platforms.
@@ -23,10 +23,10 @@ A notable highlight was the workshop on **“Introduction to Open Refine”** by
 
 ## Day 3: Recap, Future Planning, and Field Trips
 <p float="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Ghanaian_language_wikimedia_community_meetup_2024_edition_03.jpg" width="300" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Ghanaian_language_wikimedia_community_meetup_2024_edition_02.jpg" width="300" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Ghanaian_language_wikimedia_community_meetup_2024_edition_10.jpg" width="300" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ghanaian_language_wikimedia_community_meetup_2024_edition_06.jpg" width="300" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Ghanaian_language_wikimedia_community_meetup_2024_edition_03.jpg" width="200" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Ghanaian_language_wikimedia_community_meetup_2024_edition_02.jpg" width="200" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Ghanaian_language_wikimedia_community_meetup_2024_edition_10.jpg" width="200" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ghanaian_language_wikimedia_community_meetup_2024_edition_06.jpg" width="200" /> 
 </p>
 <br>
 
