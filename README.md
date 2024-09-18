@@ -1,7 +1,7 @@
 # Ghanaian Wikimedia Languages Meetup 2024: A Celebration of Digital Activism and Community Building
 ![image info](https://upload.wikimedia.org/wikipedia/commons/a/aa/Ghanaian_Languages_Wikimedia_Community_2024_03.jpg)
 
-The **Ghanaian Wikimedia Languages Meetup 2024** was a remarkable event that brought together passionate Wikimedians from across Ghana to celebrate and promote Indigenous languages online. Held from **July 26th to 28th, 2024**, in **Tamale**, this three-day mini-conference was filled with insightful discussions, collaborative workshops, and strategic planning sessions to strengthen Ghanaian languages in the digital space.
+The **Ghanaian Wikimedia Languages Meetup 2024** was a remarkable event that brought together passionate Wikimedians from across Ghana to celebrate and promote Indigenous languages online. Held from **July 26th to 28th, 2024**, in **Tamale**, this three-day mini-conference was filled with insightful discussions, collaborative workshops, and strategic planning sessions to strengthen Ghanaian languages in the digital space. 
 
 ## Day 1: Rising Voices Workshop
 ![image info](https://upload.wikimedia.org/wikipedia/commons/7/77/Ghanaian_language_wikimedia_community_meetup_2024_edition_17.jpg)
