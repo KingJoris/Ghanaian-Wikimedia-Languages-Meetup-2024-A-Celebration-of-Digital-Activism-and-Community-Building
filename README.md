@@ -14,6 +14,11 @@ The event kicked off on **Saturday, July 27th**, with the **Rising Voices Worksh
 :-------------------------:|:------------------------:
 ![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Ghanaian_language_wikimedia_community_meetup_2024_edition_15.jpg)  |  ![](https://upload.wikimedia.org/wikipedia/commons/3/3d/Ghanaian_language_wikimedia_community_meetup_2024_edition_11.jpg)
 
+<p float="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Ghanaian_language_wikimedia_community_meetup_2024_edition_15.jpg" width="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ghanaian_language_wikimedia_community_meetup_2024_edition_11.jpg" width="100" /> 
+</p>
+
 Day two, also on **July 27th**, started with an **introduction by the facilitator** and participants at **9:00 am**. **Shahadu Sadik** led an engaging **icebreaker session**, followed by **opening remarks from Maxwell Beganim**. The day was packed with presentations from various Wikimedia communities, including the **Gurene, Moore, GPE, Fante, Twi, and Dagaare communities**. Each presentation highlighted the unique challenges and successes of promoting their respective languages on Wikimedia platforms.
 
 A notable highlight was the workshop on **“Introduction to Open Refine”** by **Mr. Fuseini Mohammed Kamaldeen**, which provided participants with valuable skills for **data cleaning and management**. The day concluded with a **brainstorming session** on **community support for team members**, fostering a spirit of collaboration and mutual aid.
