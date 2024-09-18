@@ -1,57 +1,39 @@
-# Capturing Creativity: Chronicles of the Wikimedia Hackathon 2024
+# Ghanaian Wikimedia Languages Meetup 2024: A Celebration of Digital Activism and Community Building
 
-![image info](https://github.com/KingJoris/KingJoris.github.io/blob/main/blog%20images/Wikimedia_Hackathon_2024_20240505_RSKY_07.jpg?raw=true)
-<br/>
-<small>*Creative Commons Attribution-Share Alike 4.0 International by Robert Sim*</small>
+![IMAGE](https://upload.wikimedia.org/wikipedia/commons/a/aa/Ghanaian_Languages_Wikimedia_Community_2024_03.jpg)
 
-The Wikimedia Hackathon 2024 has drawn to a close, marking an intensely thrilling week filled with innovation and collaboration. As the Blogging Coordinator, I had the privilege of being immersed in the heart of the action, capturing the dynamic energy and creativity that defined the event.
+The **Ghanaian Wikimedia Languages Meetup 2024** was a remarkable event that brought together passionate Wikimedians from across Ghana to celebrate and promote Indigenous languages online. Held from **July 26th to 28th, 2024**, in **Tamale**, this three-day mini-conference was filled with insightful discussions, collaborative workshops, and strategic planning sessions to strengthen Ghanaian languages in the digital space.
 
-## Pre-Hackathon Anticipation:
-![image info](https://github.com/KingJoris/KingJoris.github.io/blob/main/blog%20images/Wikimedia_Hackathon_2024-2-.jpg?raw=true)
-<br/>
-<small>*Creative Commons Attribution-Share Alike 4.0 International by Olari Pilnik*</small>
+## Day 1: Rising Voices Workshop
+![IMAGE](https://upload.wikimedia.org/wikipedia/commons/7/77/Ghanaian_language_wikimedia_community_meetup_2024_edition_17.jpg)
 
-The excitement began weeks before the event as I connected with eager volunteers keen on sharing participants' stories. We brainstormed blog post concepts, familiarized ourselves with the Phabricator task, and geared up to encapsulate the essence of the event.
+The event kicked off on **Saturday, July 27th**, with the **Rising Voices Workshop**. The day began with **registration at 8:30 am**, followed by **opening remarks from Sadik and Eddie**. The workshop featured three sessions led by **Sadik**, focusing on **digital activism** and the importance of **preserving indigenous languages online**. Participants enjoyed a **breakfast break at 11:30 am** and a **lunch break at 2:00 pm**, providing ample time for networking and sharing ideas.
 
-## Day 1: Embracing the Energy:
-![image info](https://github.com/KingJoris/KingJoris.github.io/blob/main/blog%20images/Wikimedia_Hackathon_2024_2.jpg?raw=true)
-<br/>
+## Day 2: Community Presentations and Workshops
+  Twi Wikimedia Community Presentation     Ga Wikimedia Community Presentation
+:-------------------------:|:------------------------:
+![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Ghanaian_language_wikimedia_community_meetup_2024_edition_15.jpg)  |  ![](https://upload.wikimedia.org/wikipedia/commons/3/3d/Ghanaian_language_wikimedia_community_meetup_2024_edition_11.jpg)
 
-The inaugural day buzzed with activity. Volunteers meticulously documented the opening ceremony, team formations, and the initial surge of creative fervor. The blogging team conversed with participants, delving into their project aspirations and driving motivations. The ambience was charged with an unmistakable sense of potential.
+Day two, also on **July 27th**, started with an **introduction by the facilitator** and participants at **9:00 am**. **Shahadu Sadik** led an engaging **icebreaker session**, followed by **opening remarks from Maxwell Beganim**. The day was packed with presentations from various Wikimedia communities, including the **Gurene, Moore, GPE, Fante, Twi, and Dagaare communities**. Each presentation highlighted the unique challenges and successes of promoting their respective languages on Wikimedia platforms.
 
-*[Video Link for the Opening Ceremony](https://www.youtube.com/watch?v=Fd6cvBjXiVU)*
+A notable highlight was the workshop on **“Introduction to Open Refine”** by **Mr. Fuseini Mohammed Kamaldeen**, which provided participants with valuable skills for **data cleaning and management**. The day concluded with a **brainstorming session** on **community support for team members**, fostering a spirit of collaboration and mutual aid.
 
-## Days 2 & 3: Immersive Exploration and Ingenuity:
+## Day 3: Recap, Future Planning, and Field Trips
+  SCCA                        RedClay Studios
+:-------------------------:|:------------------------:
+![](https://upload.wikimedia.org/wikipedia/commons/b/bf/Ghanaian_language_wikimedia_community_meetup_2024_edition_03.jpg)  |  ![](https://upload.wikimedia.org/wikipedia/commons/6/67/Ghanaian_language_wikimedia_community_meetup_2024_edition_02.jpg)
 
-![image info](https://github.com/KingJoris/KingJoris.github.io/blob/main/blog%20images/Wikimedia_Hackathon_2024_20240504_RSKY_14.jpg?raw=true)
-<br/>
-<small>*Creative Commons Attribution-Share Alike 4.0 International by Robert Sim*</small>
 
-The subsequent days were dedicated to deep dives into the projects. Volunteers conducted insightful interviews with teams as their ideas crystallized into tangible prototypes. We observed the hurdles they overcame, the late-night brainstorming marathons, and the exhilarating breakthrough moments. Witnessing the participants' dedication and collaborative ethos was truly inspiring.
+The final day, **July 28th**, began with a **recap of the previous day’s activities**. The morning featured presentations from the **Ewe, Kusaal, Ga, Dagbani, and Nzema Wikimedia communities**, each sharing their experiences and strategies for **digital language preservation**. A **snack break at 12:10 pm** provided a brief respite before the afternoon sessions.
+![IMAGE](https://upload.wikimedia.org/wikipedia/commons/2/2a/Ghanaian_language_wikimedia_community_meetup_2024_edition_10.jpg)
+**Joris Darlington’s presentation on “Wiki Loves Living Heritage and Wikisource”** was a standout, showcasing the intersection of **cultural heritage** and **digital platforms**. **Shahadu Sadik’s introduction to Curationist** offered insights into curating digital content for broader audiences.
 
-## Day 3: Celebrating the Achievements:
-![image info](https://github.com/KingJoris/KingJoris.github.io/blob/main/blog%20images/Wikimedia_Hackathon_2024_20240504_RSKY_01.jpg?raw=true)
-<br/>
-<small>*Creative Commons Attribution-Share Alike 4.0 International by Robert Sim*</small>
+In the afternoon, participants embarked on **field trips** to the **Red Clay Studio** and the **Savannah Centre for Contemporary Art (SCCA)** in Tamale. These visits were an opportunity to **document Ghanaian heritage** and explore the rich cultural landscape of the region. The field trips provided a hands-on experience in **capturing and preserving local heritage**, aligning perfectly with the event’s theme of **digital activism** and **language preservation**.
 
-The concluding day was a celebration of the hackathon's culmination. Volunteers meticulously captured project presentations, documenting the final pitches and demos during the showcase. We had the privilege of interviewing participants and sharing their reflections and future aspirations. A pervasive atmosphere of achievement and pride permeated the event venue.
+The event concluded with a **lunch break** and a **sightseeing tour**, allowing participants to explore the local area and build lasting connections.
 
-*[Find the link to the closing  ceremony here](https://www.youtube.com/watch?v=-fHTdldf5Xo)*
+## Conclusion
+![IMAGE](https://upload.wikimedia.org/wikipedia/commons/0/02/Ghanaian_Languages_Wikimedia_Community_2024_09.jpg)
 
-## Post-Hackathon Reflection:
-
-The momentum didn't wane after the last presentation. Our volunteers are now immersed in crafting their blog posts, weaving together the narrative of the hackathon's journey. I eagerly anticipate the diverse perspectives that will converge, showcasing the breadth of talent and the transformative impact of the event.
-
-*[Find the links to all the blog posts here](https://phabricator.wikimedia.org/T357299)*
-
-## Beyond the Written Word:
-
-Coordinating the blogging team transcended mere task management. It was about nurturing a sense of community among our volunteers and amplifying the participants' voices. It was about capturing the human narratives behind the code, the late-night hack-fueled brainstorming sessions, and the enduring friendships forged in the collaborative spirit of the hackathon.
-
-*[Find the link to the projects developed here](https://phabricator.wikimedia.org/T361975)*
-
-## A Heartfelt Expression of Gratitude:
-
-To our remarkable blogging volunteers – your dedication, creativity, and tireless efforts are deeply appreciated. You played an indispensable role in documenting this remarkable event. And to the participants – thank you for sharing your passion, ingenuity, and the compelling stories behind your projects.
-
-The Wikimedia Hackathon 2024 has been an unforgettable journey, and I feel privileged to have been a part of it. Here's to the enduring impact of the projects developed and the inspiration they impart to the Wikimedia community!
+The **Ghanaian Wikimedia Languages Meetup 2024** was a resounding success, bringing together diverse voices and fostering a sense of community among Ghanaian Wikimedians. The event not only highlighted the importance of **digital activism** in preserving indigenous languages but also provided a platform for **sharing knowledge** and **building skills**. As participants return to their communities, they carry with them the inspiration and tools to continue their vital work in **promoting Ghanaian languages online**.
+```
