@@ -9,9 +9,9 @@ The **Ghanaian Wikimedia Languages Meetup 2024** was a remarkable event that bro
 The event kicked off on **Saturday, July 27th**, with the **Rising Voices Workshop**. The day began with **registration at 8:30 a.m**, followed by **opening remarks from Sadik and Eddie**. The workshop featured three sessions led by **Sadik**, focusing on **digital activism** and the importance of **preserving indigenous languages online**. Participants enjoyed a **breakfast break at 11:30 am** and a **lunch break at 2:00 pm**, providing ample time for networking and sharing ideas.
 
 ## Day 2: Community Presentations and Workshops
-<p float="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Ghanaian_language_wikimedia_community_meetup_2024_edition_15.jpg" width="300" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Ghanaian_language_wikimedia_community_meetup_2024_edition_16.jpg" width="300" /> 
+<p float="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Ghanaian_language_wikimedia_community_meetup_2024_edition_15.jpg" width="400" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Ghanaian_language_wikimedia_community_meetup_2024_edition_16.jpg" width="400" /> 
 </p>
 
 Day two, also on **July 27th**, started with an **introduction by the facilitator** and participants at **9:00 am**. **Shahadu Sadik** led an engaging **icebreaker session**, followed by **opening remarks from Maxwell Beganim**. The day was packed with presentations from various Wikimedia communities, including the **Gurene, Moore, GPE, Fante, Twi, and Dagaare communities**. Each presentation highlighted the unique challenges and successes of promoting their respective languages on Wikimedia platforms.
@@ -19,10 +19,10 @@ Day two, also on **July 27th**, started with an **introduction by the facilitato
 A notable highlight was the workshop on **“Introduction to Open Refine”** by **Mr. Fuseini Mohammed Kamaldeen**, which provided participants with valuable skills for **data cleaning and management**. The day concluded with a **brainstorming session** on **community support for team members**, fostering a spirit of collaboration and mutual aid.
 
 ## Day 3: Recap, Future Planning, and Field Trips
-<p float="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Ghanaian_language_wikimedia_community_meetup_2024_edition_02.jpg" width="200" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Ghanaian_language_wikimedia_community_meetup_2024_edition_10.jpg" width="200" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ghanaian_language_wikimedia_community_meetup_2024_edition_06.jpg" width="200" /> 
+<p float="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Ghanaian_language_wikimedia_community_meetup_2024_edition_02.jpg" width="400" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Ghanaian_language_wikimedia_community_meetup_2024_edition_10.jpg" width="400" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ghanaian_language_wikimedia_community_meetup_2024_edition_06.jpg" width="400" /> 
 </p>
 <br>
 
