@@ -51,6 +51,6 @@ The event concluded with a **lunch break** and a **sightseeing tour**, allowing 
 
 The **Ghanaian Wikimedia Languages Meetup 2024** was a resounding success, bringing together diverse voices and fostering a sense of community among Ghanaian Wikimedians. The event not only highlighted the importance of **digital activism** in preserving indigenous languages but also provided a platform for **sharing knowledge** and **building skills**. As participants return to their communities, they carry with them the inspiration and tools to continue their vital work in **promoting Ghanaian languages online**.
 
-[For more media files](https://commons.wikimedia.org/wiki/Category:Ghanaian_Wikimedia_Languages_Meet-up)
+[For more media files](https://commons.wikimedia.org/wiki/Category:Ghanaian_Wikimedia_Languages_Meet-up)<br>
 [For more info about Project](https://meta.wikimedia.org/wiki/Ghanaian_Languages_Wikimedia_Community_Meetup_2024#)
 
