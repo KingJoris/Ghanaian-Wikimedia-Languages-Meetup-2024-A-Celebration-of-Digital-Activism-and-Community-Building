@@ -4,15 +4,22 @@
 The **Ghanaian Wikimedia Languages Meetup 2024** was a remarkable event that brought together passionate Wikimedians from across Ghana to celebrate and promote Indigenous languages online. Held from **July 26th to 28th, 2024**, in **Tamale**, this three-day mini-conference was filled with insightful discussions, collaborative workshops, and strategic planning sessions to strengthen Ghanaian languages in the digital space. 
 
 ## Day 1: Rising Voices Workshop
-![image info](https://upload.wikimedia.org/wikipedia/commons/7/77/Ghanaian_language_wikimedia_community_meetup_2024_edition_17.jpg)
+<p float="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Ghanaian_language_wikimedia_community_meetup_2024_edition_04.jpg" width="300" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Ghanaian_language_wikimedia_community_meetup_2024_edition_12.jpg" width="300" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Ghanaian_language_wikimedia_community_meetup_2024_edition_18.jpg" width="300" /> 
+</p>
+<br>
 
 The event kicked off on **Saturday, July 27th**, with the **Rising Voices Workshop**. The day began with **registration at 8:30 a.m**, followed by **opening remarks from Sadik and Eddie**. The workshop featured three sessions led by **Sadik**, focusing on **digital activism** and the importance of **preserving indigenous languages online**. Participants enjoyed a **breakfast break at 11:30 am** and a **lunch break at 2:00 pm**, providing ample time for networking and sharing ideas.
 
 ## Day 2: Community Presentations and Workshops
 <p float="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Ghanaian_language_wikimedia_community_meetup_2024_edition_15.jpg" width="500" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Ghanaian_language_wikimedia_community_meetup_2024_edition_16.jpg" width="500" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Ghanaian_language_wikimedia_community_meetup_2024_edition_15.jpg" width="300" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Ghanaian_language_wikimedia_community_meetup_2024_edition_16.jpg" width="300" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Ghanaian_language_wikimedia_community_meetup_2024_edition_14.jpg" width="300" /> 
 </p>
+<br>
 
 Day two, also on **July 27th**, started with an **introduction by the facilitator** and participants at **9:00 am**. **Shahadu Sadik** led an engaging **icebreaker session**, followed by **opening remarks from Maxwell Beganim**. The day was packed with presentations from various Wikimedia communities, including the **Gurene, Moore, GPE, Fante, Twi, and Dagaare communities**. Each presentation highlighted the unique challenges and successes of promoting their respective languages on Wikimedia platforms.
 
@@ -35,9 +42,14 @@ In the afternoon, participants embarked on **field trips** to the **Red Clay Stu
 The event concluded with a **lunch break** and a **sightseeing tour**, allowing participants to explore the local area and build lasting connections.
 
 ## Conclusion
-![image info](https://upload.wikimedia.org/wikipedia/commons/7/77/Ghanaian_language_wikimedia_community_meetup_2024_edition_17.jpg)
+<p float="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Ghanaian_language_wikimedia_community_meetup_2024_edition_17.jpg" width="300" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Ghanaian_language_wikimedia_community_meetup_2024_edition_08.jpg" width="300" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Ghanaian_language_wikimedia_community_meetup_2024_edition_01.jpg" width="300" /> 
+</p>
+<br>
 
 The **Ghanaian Wikimedia Languages Meetup 2024** was a resounding success, bringing together diverse voices and fostering a sense of community among Ghanaian Wikimedians. The event not only highlighted the importance of **digital activism** in preserving indigenous languages but also provided a platform for **sharing knowledge** and **building skills**. As participants return to their communities, they carry with them the inspiration and tools to continue their vital work in **promoting Ghanaian languages online**.
 
 [For more media files](https://commons.wikimedia.org/wiki/Category:Ghanaian_Wikimedia_Languages_Meet-up)
-```
+
